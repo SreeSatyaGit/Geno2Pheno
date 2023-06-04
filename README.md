@@ -48,3 +48,10 @@ The confusion matrix showcases our supervised CNN model's performance in accurat
 
 ## Accuracy
 <img width="563" alt="Screenshot 2023-05-31 at 10 54 03 AM" src="https://github.com/SreeSatyaGit/Geno2Pheno/assets/122564841/5d6c66ac-d5bd-4f98-8f43-f32a2479db3d">
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me:
+
+- **Name:** Sreesatya Nandivada
+- **Email:** nandivada.s@northeastern.edu
