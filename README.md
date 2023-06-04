@@ -3,11 +3,16 @@
 This project aims to develop a Convolutional Neural Network (CNN) model that maps genotype to phenotype using gene expression values. By leveraging the power of deep learning and gene expression data, we seek to uncover the underlying relationship between genetic variations and observed phenotypic outcomes.
 
 # Dataset
-The Dataset used to train this model is from 10xGenomics which consists of Peripheral blood mononuclear cells (PBMCs) from a healthy donor. <br> https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_10k_v3 <br>
+The Dataset used to train this model is from 10xGenomics which consists of Peripheral blood mononuclear cells (PBMCs) from a healthy donor. <br>https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc3k?<br>
 
-Estimated Number of Cells -> **11,769** <br>
-Mean Reads per Cell -> **54,286** <br>
-Median Genes per Cell -> **1,906** <br>
+Estimated Number of Cells -> **2,700** <br>
+Mean Reads per Cell -> **68,881** <br>
+Median Genes per Cell -> **817** <br>
 
 # Umap Visualization
 
+UMAP (Uniform Manifold Approximation and Projection) is a powerful dimensionality reduction technique used for visualizing and exploring high-dimensional data. It preserves data structure, handles large datasets, and offers improved performance. UMAP finds applications in data visualization, exploratory data analysis, machine learning, clustering, and anomaly detection. It helps analyze complex datasets, identify patterns, improve machine learning efficiency, and detect outliers. Overall, UMAP is a versatile tool for understanding and extracting insights from high-dimensional data.
+
+## Umap Visualization of the dataset
+
+![Umap](https://github.com/SreeSatyaGit/Geno2Pheno/assets/122564841/19c6f69f-90b6-4ecd-8b2d-26f7d22cc9d7)
