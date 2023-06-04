@@ -17,3 +17,12 @@ UMAP (Uniform Manifold Approximation and Projection) is a powerful dimensionalit
 
 ![2700_cells_umap](https://github.com/SreeSatyaGit/Geno2Pheno/assets/122564841/8b649df1-36e4-43e2-adfc-8c74d86d4554)
 
+# Confusion Matrix and Accuracy
+
+By utilizing UMAP labels, we trained a supervised CNN model and achieved an impressive accuracy of 87%. The confusion matrix below provides a detailed breakdown of the model's performance in classifying different phenotypic outcomes.
+
+## Confusion Matrix
+<img width="496" alt="Screenshot 2023-05-31 at 11 19 46 AM" src="https://github.com/SreeSatyaGit/Geno2Pheno/assets/122564841/15b27c3f-dd86-4e15-a93e-84d183ad5bfa">
+
+## Accuracy
+<img width="563" alt="Screenshot 2023-05-31 at 10 54 03 AM" src="https://github.com/SreeSatyaGit/Geno2Pheno/assets/122564841/5d6c66ac-d5bd-4f98-8f43-f32a2479db3d">
