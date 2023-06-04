@@ -15,4 +15,5 @@ UMAP (Uniform Manifold Approximation and Projection) is a powerful dimensionalit
 
 ## Umap Visualization of the dataset
 
-![Umap](https://github.com/SreeSatyaGit/Geno2Pheno/assets/122564841/19c6f69f-90b6-4ecd-8b2d-26f7d22cc9d7)
+![2700_cells_umap](https://github.com/SreeSatyaGit/Geno2Pheno/assets/122564841/8b649df1-36e4-43e2-adfc-8c74d86d4554)
+
